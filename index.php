@@ -14,7 +14,7 @@
 </head>
 <body class="home">
 
-<section class="headSec">
+<section class="headSec newclass add">
 	<header class="header">
 		<div class="container-fluid">
 			<div class="row">
