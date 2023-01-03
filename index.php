@@ -12,8 +12,7 @@
         </script>
     <![endif]-->
 </head>
-<body class="home">
-
+<body class="home bb">
 <section class="headSec newclass add">
 	<header class="header">
 		<div class="container-fluid">
