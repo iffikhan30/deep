@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; c harset=utf-8" />
 	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=0" />
-	<title>Home | Deep Trading</title>
+	<title>Home | Deep Trading olc</title>
 	<link rel="stylesheet" href="assets/css/style.css">
 	    <!--[if IE]>
         <script type="text/javascript">
