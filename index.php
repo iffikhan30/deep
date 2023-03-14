@@ -11,14 +11,8 @@
              var console = { log: function() {} };
         </script>
     <![endif]-->
-	
-	
 </head>
-	
-	
 <body class="home bb">
-	
-	
 <section class="headSec newclass add">
 	
 	<header class="header">
