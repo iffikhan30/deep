@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
-	
 <head>
 	<meta http-equiv="Content-Type" content="text/html; c harset=utf-8" />
 	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
@@ -16,7 +14,6 @@
 </head>
 <body class="home bb">
 <section class="headSec newclass add">
-	
 	<header class="header">
 		<div class="container-fluid">
 			<div class="row">
